@@ -1,0 +1,11 @@
+product_id,product_name,category,segment,list_price
+P001,Laptop Pro 14,Electronics,Premium,4200
+P002,Laptop Air 13,Electronics,Standard,3200
+P003,Monitor 27,Electronics,Standard,950
+P004,Wireless Headset,Accessories,Standard,420
+P005,Mechanical Keyboard,Accessories,Standard,360
+P006,Office Chair,Furniture,Standard,780
+P007,Desk Pro,Furniture,Premium,1250
+P008,Tablet 11,Electronics,Standard,1800
+P009,Smartphone X,Electronics,Premium,3100
+P010,USB-C Hub,Accessories,Standard,190
