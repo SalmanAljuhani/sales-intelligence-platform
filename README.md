@@ -148,6 +148,10 @@ sales-intelligence-platform/
 - Add forecasting models
 
 ---
+## 📊 Dashboard Preview
+
+![Sales Intelligence Dashboard](dashboard_preview.png)
+
 
 ## 👤 Author
 
